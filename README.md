@@ -39,7 +39,7 @@ La prueba está diseñada para ser completada en aproximadamente 2-3 horas.
 Para esta prueba técnica, estamos utilizando la API de Holidays by API Ninjas. Esta API proporciona información sobre días festivos de diferentes países. Para utilizarla, necesitarás:
 
 1. Registrarte en [RapidAPI](https://rapidapi.com/)
-2. Suscribirte a [Holidays API by API-Ninjas](https://rapidapi.com/api-ninjas/api/holidays-by-api-ninjas)
+2. Suscribirte a [Public holidays](https://rapidapi.com/hefesto-technologies-hefesto-technologies-default/api/public-holidays7)
 3. Obtener una clave de API
 4. Reemplazar la clave de API en el código con tu clave de API
 
